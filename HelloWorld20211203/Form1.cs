@@ -25,6 +25,13 @@ namespace HelloWorld20211203
         private void button2_Click(object sender, EventArgs e)
         {
             label1.Text = "";
+            label2.Text = "";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label2.Text = "Made by DelKruz";
+           
         }
     }
 }
