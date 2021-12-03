@@ -31,5 +31,10 @@ namespace HelloWorld20211203
         {
             label1.Text = "Hello From The Rockstar";
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Hello From Amit The Rockstar";
+        }
     }
 }
