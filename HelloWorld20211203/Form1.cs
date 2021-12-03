@@ -19,12 +19,17 @@ namespace HelloWorld20211203
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Hello world";
+            label1.Text = "Hello";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             label1.Text = "";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Makhmud";
         }
     }
 }
