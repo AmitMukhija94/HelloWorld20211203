@@ -29,7 +29,7 @@ namespace HelloWorld20211203
 
         private void button3_Click(object sender, EventArgs e)
         {
-            label1.Text = "Makhmud";
+            label1.Text = "Kathan ";
         }
     }
 }
